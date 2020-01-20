@@ -18,8 +18,8 @@ Dear Sir or Madam:
 
     --txt
 
-    If you want start server, please run `node server.js` in terminal.
-    If you want start client, please run `node client.js` in terminal.
+    If you want start server, please run `node server/server.js` in terminal.
+    If you want start client, please run `node client/client.js` in terminal.
 
     
     Common folder is Client and server common components.
